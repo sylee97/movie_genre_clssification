@@ -1,0 +1,9 @@
+jupyter notebook
+ipykernel==6.16.2
+matplotlib==3.5.3
+split-folders==0.5.1
+pytorch==1.13.1
+pytorch-cuda==11.6
+torchvision==0.14.1
+torchaudio==0.13.1
+pillow==6.2.2 
