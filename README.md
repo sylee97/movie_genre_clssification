@@ -14,7 +14,8 @@
 
 ### test 2) genre classification
 
-* test.csv file include 100 audios with 10 extracted tags from musicnn models
+* test.csv file include 100 audios with 7 major feature values(chroma_stft, rms, spectral_centroid, spectral_bandwidth, spectral_rolloff, zcr, mfcc) 
+and 10 extracted tags(idx) from musicnn models
 * train with random forest model then evaluate
 - run code in google colab: movie100Audio_genre_classification.ipynb
 
